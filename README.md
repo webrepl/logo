@@ -1,3 +1,9 @@
+# Logo of WebREPL
+
++ [Landing page: www.webrepl.com](https://www.webrepl.com/)
++ [Docs](https://docs.webrepl.com/)
++ [Logo](https://logo.webrepl.com/)
+
 ## Font
 
 
@@ -9,7 +15,7 @@ Icon Designed by
 <a target="_blank" href="https://thenounproject.com/fabio.nucatolo">Fabio Nucatolo</a>
 
 
-## Font
+## Font Color
   
   #3796FF, #5C738D
 
@@ -18,7 +24,7 @@ Icon Designed by
   transparent
 
 
-## Icon
+## Icon Color
   
   #3796FF, #5C738D
 
